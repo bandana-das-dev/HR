@@ -176,8 +176,8 @@ input::-moz-placeholder {
 }
 
 .navbar-light .navbar-nav .active > .nav-link {
-    color: #f26522;
-    border-bottom: 2px solid #f26522;
+    color: #0971b7;
+    border-bottom: 2px solid #023a60;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -199,8 +199,8 @@ input::-moz-placeholder {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background: rgb(172, 216, 170);
-    background: linear-gradient(120deg, rgba(172, 216, 170, 1) 0%, rgba(113, 174, 183, 1) 100%);
+    background: rgb(9 113 183);
+    background: linear-gradient(120deg, rgb(9 113 183) 0%, rgb(147 192 44) 100%);
 }
 
 
@@ -351,7 +351,7 @@ input::-moz-placeholder {
 }
 
 .services h4 {
-    font-size: 24px;
+    font-size: 21px;
 }
 
 .services p {
@@ -482,6 +482,14 @@ input::-moz-placeholder {
     font-size: 18px;
     color: #4b4b4b;
     margin-bottom: 30px;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+}
+#customers-testimonials .item-details h3 {
+    font-size: 22px;
+    color: #4b4b4b;
+    margin-bottom: 0px;
+    font-weight: 600;
+    line-height: 26px;
     font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 }
 
