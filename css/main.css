@@ -541,6 +541,10 @@ input::-moz-placeholder {
 }
 
 /*-- Contact --*/
+.logo img {
+    width: 100%;
+}
+
 .contact {
     background-image: url('../images/call-back-bg.jpg');
     background-repeat: no-repeat;
