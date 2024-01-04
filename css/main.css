@@ -1200,6 +1200,9 @@ footer ul .nav-link {
     .contact p {
         width: 100%;
     }
+    .logo img {
+    width: 100%;
+}
 }
 
 @media screen and (max-width: 767px) {
@@ -1230,6 +1233,9 @@ footer ul .nav-link {
         font-size: 14px;
         width: 100%;
     }
+    .logo img {
+    width: 100%;
+}
 
     .contact .form-control {
         font-size: 14px;
@@ -1275,6 +1281,9 @@ footer ul .nav-link {
     .masthead p {
         font-size: 14px;
     }
+    .logo img {
+    width: 100%;
+}
 
     .masthead .btn-primary {
         width: 170px;
